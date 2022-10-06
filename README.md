@@ -16,7 +16,11 @@ Dans le dossier **code**, il y a un fichiers *anomaly_detection.m* avec l'execut
 Dans le dossier **data**, il y a l'image de la vertèbre utilisées pour la détection d'anomalie. 
 
 Dans le dossier **images**, il y a les images utilisées dans le wiki pour visualiser les résultats. 
+<br/>
+<br/>
 
+
+Anomaly-detection:
 
 - **code**
   - *anomaly_detection.m*
