@@ -22,7 +22,7 @@ Dans le dossier **images**, il y a les images utilisées dans le wiki pour visua
   - *anomaly_detection.m*
   
 - **data**
-  - *vertebre.png*
+  - *anomaly_detection_1.png*
   
 - **images**
   - *data_manipulation_box_plot_of_price_by_cut.png*
