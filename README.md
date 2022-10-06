@@ -26,9 +26,7 @@ Anomaly-detection:
   - *anomaly_detection.m*
   
 - **data**
-  - *anomaly_detection_1.png*
+  - *vertebre.png*
   
 - **images**
-  - *data_manipulation_box_plot_of_price_by_cut.png*
-  - *...*
-  - *graph_analysis_representation_by_influencers_and_by_groups.png*
+  - *anomaly_detection_1.png*
