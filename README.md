@@ -9,6 +9,13 @@
 <br/>
 
 
+<p align='center'>
+  <img src="https://github.com/isabelleysseric/Anomaly-detection/blob/main/images/anomaly_detection_1.png" />
+</p>
+<br/>
+<br/>
+
+
 ## Repertoire
 
 Dans le dossier **code**, il y a un fichiers *anomaly_detection.m* avec l'execution de l'algorithme de détection d'anomalie.
