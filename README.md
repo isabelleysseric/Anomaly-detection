@@ -1,4 +1,4 @@
-<h1 align='center'>Détection d'anomalie avec MATLAB</h1>
+<h1 align='center'>Anomaly Detection with MATLAB</h1>
 
 
 <p align='center'>
