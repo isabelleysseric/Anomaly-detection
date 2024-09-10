@@ -1,31 +1,37 @@
-# Détection d'anomalie avec MATLAB
-
-
-<p align='center'>
-  <a href="https://github.com/isabelleysseric/Anomaly-detection">Anomaly-detection</a> (GitHub)
-  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Anomaly-detection/wiki">Anomaly-detection</a> (Wiki)<br/>
-  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
-  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
-  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/><br/><br/>
-</p>
-<br/>
-<br/>
+<h1 align='center'>Détection d'anomalie avec MATLAB</h1>
 
 
 <p align='center'>
   <img src="https://github.com/isabelleysseric/Anomaly-detection/blob/main/images/anomaly_detection_1.png" />
 </p>
+<h2 align="center">    
+
+  <!-- GitHub -->
+  <a href="https://github.com/isabelleysseric/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+  </a>  
+
+  <!-- Project Repo -->
+  <a href="https://github.com/isabelleysseric/Anomaly-detection/">
+    <img src="https://img.shields.io/badge/Repo-Anomaly_detection-green?style=for-the-badge&logo={Anomaly-detection}&logoColor=white" >
+  </a>
+
+  <!-- Wiki Project -->
+  <a href="https://github.com/isabelleysseric/Anomaly-detection/wiki/">
+    <img src="https://img.shields.io/badge/Wiki-Anomaly_detection-green?style=for-the-badge&logo={Anomaly-detection}&logoColor=white" >
+  </a><br>
+  
+</h2>
 <br/>
-<br/>
 
 
-## Repertoire
+## Repository
 
-Dans le dossier **code**, il y a un fichiers *anomaly_detection.m* avec l'execution de l'algorithme de détection d'anomalie.
+In the **code** folder, there is a file *anomaly_detection.m* with the execution of the anomaly detection algorithm.
 
-Dans le dossier **data**, il y a l'image de la vertèbre utilisées pour la détection d'anomalie. 
+In the **data** folder, there is the image of the vertebra used for the anomaly detection.
 
-Dans le dossier **images**, il y a les images utilisées dans le wiki pour visualiser les résultats. 
+In the **images** folder, there are the images used in the wiki to visualize the results.
 <br/>
 <br/>
 
